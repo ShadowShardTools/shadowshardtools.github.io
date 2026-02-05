@@ -1,0 +1,28 @@
+[
+    {
+        "image": "https://github.com/user-attachments/assets/ccaf418e-38e2-49a6-aa2f-d8488b06bf39",
+        "ctas": [
+            {
+                "ctaText": "GitHub",
+                "ctaLink": "https://github.com/ShadowShardTools/Essential-Gamedev-Resources"
+            },
+            {
+                "ctaText": "Live",
+                "ctaLink": "https://shadowshardtools.github.io/Essential-Gamedev-Resources/"
+            }
+        ]
+    },
+    {
+        "image": "https://assetstorev1-prd-cdn.unity3d.com/key-image/63e0fd93-230f-43f8-a4b6-eaccf461ce9c.webp",
+        "ctas": [
+            {
+                "ctaText": "GitHub",
+                "ctaLink": "https://github.com/ShadowShardTools/Essential-Gamedev-Resources"
+            },
+            {
+                "ctaText": "Live",
+                "ctaLink": "https://shadowshardtools.github.io/Essential-Gamedev-Resources/"
+            }
+        ]
+    }
+]
