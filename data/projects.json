@@ -2,7 +2,7 @@
   {
     "title": "SST-Docs",
     "description": "A powerful, feature-rich React documentation platform built with Vite, designed for creating beautiful, searchable, and versioned documentation sites from structured JSON data.",
-    "image": "https://private-user-images.githubusercontent.com/107807003/541812966-e3580e04-f168-4b24-ad4c-dc5227b11666.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA1OTE5MTMsIm5iZiI6MTc3MDU5MTYxMywicGF0aCI6Ii8xMDc4MDcwMDMvNTQxODEyOTY2LWUzNTgwZTA0LWYxNjgtNGIyNC1hZDRjLWRjNTIyN2IxMTY2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIwOFQyMzAwMTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YmJjN2IxMzllNzljZWUyZTJhZTYwY2Y5M2RhNDE2M2U1MGU2ODVmZjc3MjA4MmNlMTAwMTU0NmEzNzRkN2E3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.J4ZleTtNivZlrHrvCylPTuUoZmmb0U2hqGtNGgbQJw0",
+    "image": "/images/projects/SST-Docs_Card.png",
     "ctas": [
       {
         "ctaText": "GitHub",
