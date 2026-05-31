@@ -13,5 +13,16 @@
         "ctaLink": "https://shadowshardtools.github.io/SST-Docs/"
       }
     ]
+  },
+  {
+    "title": "SST Sequencer",
+    "description": " Desktop Electron app for converting between image sequences and videos, upscaling images or videos, and optionally removing backgrounds before export. ",
+    "image": "/images/projects/SST-Sequencer_Card.png",
+    "ctas": [
+      {
+        "ctaText": "GitHub",
+        "ctaLink": "https://github.com/ShadowShardTools/SST-Sequencer"
+      }
+    ]
   }
 ]
